@@ -2,8 +2,7 @@
   "name": "kendo",
   "version": "1.1.17",
   "main": [
-    "kendo.css",
-    "kendo.js"
+    "dist/js/kendo.angular.min.js"
   ],
   "dependencies": { },
   "devDependencies": { },
