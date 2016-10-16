@@ -7,7 +7,6 @@
 *.mdb
 obj/
 bin/
-dist/
 .DS_Store
 .JustCode
 .bundle/
